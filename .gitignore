@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+
+# Build files
+build/
+dist/
+*.egg-info/
